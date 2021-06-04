@@ -15,10 +15,10 @@ const settings = {
           menu: [
             ["Home", "/"],
             ["Blog", "/blog/"],
-            ["Nature", "/category/nature/"],
-            ["Travel", "/category/travel/"],
-            ["Japan", "/tag/japan/"],
-            ["About Us", "/about-us/"],
+            ["Blog page 2", "/blog/page/2"],
+            ["Test category", "/blog/category/test-category/"],
+            ["Archive 2021/02 no-prefix", "/2021/02/"],
+            ["Prefixed archive 2021/02", "/blog/2021/02"],
           ],
           featured: {
             showOnList: false,
