@@ -31,7 +31,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          url: "http://localhost/frontity-blog",
+          url: "https://distcode.uk/frontity-blog",
           homepage: "/home",
           postsPage: "/blog",
           categoryBase: "blog/category",
